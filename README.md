@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @pyetroushev, MD & novice DS
+- 👀 I’m interested in ML & CV
