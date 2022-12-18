@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pyetroushev, MD & novice DS
-- 👀 I’m interested in ML & CV
+- 👀 I’m interested in analytics, big data, ML & CV
